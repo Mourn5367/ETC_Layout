@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="btnNumberMargin" >5dp </dimen>
+    <dimen name="btnSymbolMargin"> 20dp </dimen>
+    <dimen name="textViewResultSize"> 20sp </dimen>
+    <dimen name="textViewTitleSize"> 37sp </dimen>
+    <dimen name="layoutPadding"> 20sp </dimen>
+</resources>
